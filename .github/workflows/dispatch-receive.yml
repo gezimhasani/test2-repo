@@ -14,5 +14,5 @@ jobs:
 
       - name: Echo dispatch success message
         run: |
-          echo "Dispatch was successful!"
+          echo "Dispatch was successful!" && sleep 120
 
